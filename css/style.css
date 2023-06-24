@@ -1,0 +1,16 @@
+.wrapper {
+    display: flex;
+    height: 100%;
+}
+
+.sidebar {
+    background-color: var(--sidebar-bg-color);
+    color: var(--white-color);
+    width: 100%;
+    max-width: 255px;
+}
+
+.main {
+    width: 100%;
+    background-color: var(--white-color);
+}

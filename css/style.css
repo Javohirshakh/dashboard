@@ -66,3 +66,38 @@
     color: var(--text-light-color);
     font-family: var(--dashbord-menu-link-font); 
 }
+
+
+/* HEADER */
+.header {   
+    padding-top: 3.1em;
+}
+
+.header__global {
+    display: flex;
+}
+
+.header__link {
+    width: 30px;
+    height: 20px;
+}
+
+.header__img {
+
+}
+
+.header__menu {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    margin-left: 870px;
+}
+
+.header__menu--title {
+    
+}
+
+.header__menu--img {
+    border-radius: 50%;
+    border: 1.5px solid var( --dashboard-nav-border-bottom);
+}
